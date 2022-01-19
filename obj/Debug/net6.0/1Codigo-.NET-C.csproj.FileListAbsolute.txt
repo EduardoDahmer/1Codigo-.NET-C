@@ -1,0 +1,15 @@
+C:\Users\eduar\VisualStudioCodeProjects\1Codigo-.NET-C\bin\Debug\net6.0\1Codigo-.NET-C.exe
+C:\Users\eduar\VisualStudioCodeProjects\1Codigo-.NET-C\bin\Debug\net6.0\1Codigo-.NET-C.deps.json
+C:\Users\eduar\VisualStudioCodeProjects\1Codigo-.NET-C\bin\Debug\net6.0\1Codigo-.NET-C.runtimeconfig.json
+C:\Users\eduar\VisualStudioCodeProjects\1Codigo-.NET-C\bin\Debug\net6.0\1Codigo-.NET-C.dll
+C:\Users\eduar\VisualStudioCodeProjects\1Codigo-.NET-C\bin\Debug\net6.0\ref\1Codigo-.NET-C.dll
+C:\Users\eduar\VisualStudioCodeProjects\1Codigo-.NET-C\bin\Debug\net6.0\1Codigo-.NET-C.pdb
+C:\Users\eduar\VisualStudioCodeProjects\1Codigo-.NET-C\obj\Debug\net6.0\1Codigo-.NET-C.csproj.AssemblyReference.cache
+C:\Users\eduar\VisualStudioCodeProjects\1Codigo-.NET-C\obj\Debug\net6.0\1Codigo-.NET-C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduar\VisualStudioCodeProjects\1Codigo-.NET-C\obj\Debug\net6.0\1Codigo-.NET-C.AssemblyInfoInputs.cache
+C:\Users\eduar\VisualStudioCodeProjects\1Codigo-.NET-C\obj\Debug\net6.0\1Codigo-.NET-C.AssemblyInfo.cs
+C:\Users\eduar\VisualStudioCodeProjects\1Codigo-.NET-C\obj\Debug\net6.0\1Codigo-.NET-C.csproj.CoreCompileInputs.cache
+C:\Users\eduar\VisualStudioCodeProjects\1Codigo-.NET-C\obj\Debug\net6.0\1Codigo-.NET-C.dll
+C:\Users\eduar\VisualStudioCodeProjects\1Codigo-.NET-C\obj\Debug\net6.0\ref\1Codigo-.NET-C.dll
+C:\Users\eduar\VisualStudioCodeProjects\1Codigo-.NET-C\obj\Debug\net6.0\1Codigo-.NET-C.pdb
+C:\Users\eduar\VisualStudioCodeProjects\1Codigo-.NET-C\obj\Debug\net6.0\1Codigo-.NET-C.genruntimeconfig.cache
