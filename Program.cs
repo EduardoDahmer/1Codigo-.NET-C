@@ -3,7 +3,6 @@
  class minhaClasse 
  {
         static void Main(string[] args) {
-            //continue a solucao com a insercao da variavel corretamente
             Console.WriteLine("Digite dois números para descobrir se eles são múltiplos!");
             Console.WriteLine("");
             Console.WriteLine("Digite o primeiro número: ");
